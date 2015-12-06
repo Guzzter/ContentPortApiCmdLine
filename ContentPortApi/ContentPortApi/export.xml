@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExportConfig>
+  <General>
+    <ExportDirectory>C:\Packages\</ExportDirectory>
+    <LogLevel>normal</LogLevel><!-- could be none, normal or debug -->
+    <BluePrintMode>ExportSharedItemsFromOwningPublication</BluePrintMode>
+  </General>
+  <Package>
+    <!-- Tip: create package per publication and export/import according to the blueprint tree -->
+    <ZipFile>00_AboutComponents.zip</ZipFile>
+    <ItemsSelection>
+      <item>tcm:5-311</item>
+    </ItemsSelection>
+    <SubtreeSelection>
+      <item>tcm:5-62-2</item>
+    </SubtreeSelection>
+    <TaxonomiesSelection>
+      <item>tcm:0-5-1</item>
+    </TaxonomiesSelection>
+  </Package>
+  <Package>
+    <!-- Tip: create package per publication and export/import according to the blueprint tree -->
+    <ZipFile>01_ChildPublication.zip</ZipFile>
+    <SubtreeSelection>
+      <item>/webdav/400 Example Site/Building Blocks/Content/Articles</item>
+    </SubtreeSelection>
+  </Package>
+</ExportConfig>

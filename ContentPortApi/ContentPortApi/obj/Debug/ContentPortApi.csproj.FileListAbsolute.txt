@@ -1,0 +1,10 @@
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\ContentPortApi.exe.config
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\obj\Debug\ContentPortApi.csprojResolveAssemblyReference.cache
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\ContentPortApi.exe
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\ContentPortApi.pdb
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\Tridion.ContentManager.ImportExport.Client.dll
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\ChilkatDotNet4.dll
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\obj\Debug\ContentPortApi.exe
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\obj\Debug\ContentPortApi.pdb
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\export.xml
+C:\Projects\ContentPortApi\ContentPortApi\ContentPortApi\bin\Debug\Tridion.ContentManager.ImportExport.Common.dll
